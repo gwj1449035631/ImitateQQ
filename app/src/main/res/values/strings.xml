@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QQImitate</string>
+    <string name="qq">QQ</string>
+    <string name="qq_sgin">QQ</string>
+    <string name="qq_phone_email">QQ号/手机号/邮箱</string>
+    <string name="input_password">输入密码</string>
+    <string name="input_number">输入数字</string>
+    <string name="login">login</string>
+    <string name="new_register">新用户注册</string>
+    <string name="find_password">找回密码</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="login_color">#f1f3f8</color>
+    <color name="colorBlue">#27bbda</color>
+    <color name="colorBlack">#000000</color>
+    <color name="DimGray">#696969</color>
+    <color name="transport">#00FFFFFF</color>
+</resources>
